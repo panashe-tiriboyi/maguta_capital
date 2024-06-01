@@ -3,7 +3,7 @@ import Image from "next/image";
 import GetInTouch from "./getInTouch";
 import Loans from "@/components/loans";
 import NonEnterpriseDevelopmentCredit from "@/components/nonEnterpriseDevelopmentCredit";
-import RuralFinance from "@/components/RuralFinance";
+import RuralFinance from "@/components/ruralFinance";
 import Insurance from "@/components/insurance";
 import MobileMoney from "@/components/mobileMoney";
 
